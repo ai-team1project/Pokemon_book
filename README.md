@@ -40,10 +40,10 @@
 # 3. UserFlow 작성
 
 ---
+![포켓몬 도감 프로젝트 _ 깃마인드 _ 사용자관점](https://github.com/user-attachments/assets/a8365b0c-9f10-4673-96e4-f0a2309bda08)
+![포켓몬 도감 프로젝트 _ 깃마인드 _ 관리자관점](https://github.com/user-attachments/assets/93ac88b9-8b6c-43a2-b159-f015cceb3ce9)
 
-![포켓몬 도감 프로젝트 _ 깃마인드 _ 사용자관점.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/12870a3c-d6dc-4a99-864b-a604d376e277/7a8f38dc-84c2-4fac-b05a-47499428456e/%ED%8F%AC%EC%BC%93%EB%AA%AC_%EB%8F%84%EA%B0%90_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8___%EA%B9%83%EB%A7%88%EC%9D%B8%EB%93%9C___%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B4%80%EC%A0%90.png)
 
-![포켓몬 도감 프로젝트 _ 깃마인드 _ 관리자관점.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/12870a3c-d6dc-4a99-864b-a604d376e277/55ac14b8-ef17-43c2-b9e6-6742e0e8fccb/%ED%8F%AC%EC%BC%93%EB%AA%AC_%EB%8F%84%EA%B0%90_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8___%EA%B9%83%EB%A7%88%EC%9D%B8%EB%93%9C___%EA%B4%80%EB%A6%AC%EC%9E%90%EA%B4%80%EC%A0%90.png)
 
 # 4. 기능 명세서
 
