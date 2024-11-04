@@ -21,23 +21,19 @@
 
 ## 🚩개발 환경
 
-- Intelli J
-- java
-- GitHub
-- (진행 시 사진으로 추가 예정)
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ## 🚩역할 분담
 
 | **이름** | **담당 도메인** | **담당 기능** | **프로젝트 역할** |
 | --- | --- | --- | --- |
 | **김동영** |  |  |  |
-| **박준범** |  |  |  |
 | **김유나** |  |  | 깃마인드 작성, 리드미 작성 |
 | **오연우** |  |  | 리드미 작성 |
 | **이선민** |  |  | 리드미 작성 |
 | **정서령** |  |  | 리드미 작성 |
 
-`
+
 
 # 3. UserFlow 작성
 
